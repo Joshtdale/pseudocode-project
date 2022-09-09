@@ -1,8 +1,8 @@
 ## Proper extraction of espresso
 ---
-| Objects | 
-| ----------- |
-|Espresso machine|
+| Objects |
+| ---- | 
+|Espresso machine| 
 |Grinder|
 |Portafilter|
 |Tamper|
